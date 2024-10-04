@@ -1,9 +1,11 @@
 {
-  "homepage": "https://namit-piriya.github.io/",
-  "name": "namit-portfolio",
+  "homepage": "https://jaychaturvedi.github.io/",
+  "name": "jaychaturvedi-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "ajv": "^8.17.1",
+    "ajv-keywords": "^5.1.0",
     "colorthief": "^2.3.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
