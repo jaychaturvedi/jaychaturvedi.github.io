@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "6+ Years Experienced Full Stack Software Engineer with expertise in MERN, Java, React Native, Nestjs, Typescript. Proficient in MongoDB, PostgreSQL, and Python. Curious and passionate about continuous learning. Ready to contribute effectively to dynamic projects."
   ),
-  resumeLink: "https://drive.google.com/file/d/1OI7qBxR6KAfOhEjSvLDMPqtKbKYIi2SF/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "https://drive.google.com/file/d/1zQC5sCkHz3tE_20KEUPJiddS_6KgZAGy/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
